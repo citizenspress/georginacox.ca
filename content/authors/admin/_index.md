@@ -57,20 +57,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:georgina@georginacox.ca".
-- icon: twitter
-  icon_pack: fab
-  link: 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=OGrwwEsAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: post/georgina-k-cox-cv/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

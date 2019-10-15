@@ -1,47 +1,68 @@
-+++
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title = "Getting to the heart of the matter: oxygen supply and demand in fish."
-time_start = 2018-04-23T13:00:00
-time_end = 2018-04-23T15:00:00
-event = "Experimental Biology Conference"
-abstract = ""
-abstract_short = ""
-event_url = "http://www.apsebmeeting.org/eb2018/session.cfm?id=474"
-location = "San Diego, California, USA"
+title: "Getting to the heart of the matter: oxygen supply and demand in fish."
+event: Experimental Biology Conference
+event_url: http://www.apsebmeeting.org/eb2018/session.cfm?id=474
+location:
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
+summary: "Catch me at the Experimental Biology meeting in San Diego, CA where I have been invited to speak at the *Comparative Perspectives on Maximal O2 and CO2 Transport in Animals Symposium* on Monday April 23rd, 2018."
+abstract:
 
-# Is this a selected talk? (true/false)
-selected = true
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: 2018-04-23T13:00:00-00:00
+date_end: 2019-04-23T15:00:00-00:00
+all_day: false
 
-# Projects (optional).
-#   Associate this talk with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["hagfish"]
+# Schedule page publish date (NOT talk date).
+publishDate: 2019-10-14T10:37:45-04:00
 
-# Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+authors: []
+tags: []
 
-# Does the content use math formatting?
-math = true
-
-# Does the content use source code highlighting?
-highlight = true
+# Is this a featured talk? (true/false)
+featured: false
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 
-+++
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
-Catch me at the Experimental Biology meeting in San Diego, CA where I have been invited to speak at the "Comparative Perspectives on Maximal O2 and CO2 Transport in Animals" Symposium on Monday April 23rd.
+# Optional filename of your slides within your talk's folder or a URL.
+url_slides:
 
+url_code:
+url_pdf:
+url_video:
 
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
 
-
-
-<!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. -->
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
