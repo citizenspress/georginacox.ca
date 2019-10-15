@@ -80,7 +80,9 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
 ---
+
 My research interests broadly center on cardiovascular responses to physiological and abiotic stress. I use a comparative approach to look for commonalities in how cardiovascular systems in animals that inhabit heterogeneous environments overcome physiological and abiotic stress. By conducting research on a phylogenetically diverse number of fish species (including agnathans, chondrichthyans and teleosts), and mammals I have discovered various metabolic, functional, and morphological phenotypes that affect species sensitivity or persistence in the face of anoxia, temperature variation, pollution, and disease. The unifying goal of my research is to make fundamental discoveries on cardiovascular function and apply them to further our understanding of species’ underlying physiology.
 Past and present research topics:
 
