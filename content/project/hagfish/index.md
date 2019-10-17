@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hagfish"
-summary: "The vast majority of vertebrate hearts can survive only minutes when cut off from oxygen."
+title: "Cardiovascular function in response to environmental anoxia"
+summary: "The vast majority of vertebrates can survive only minutes when cut off from oxygen, but some have physiological and biochemical adaptations that allow long term survival in anoxic environments."
 authors: [admin]
 tags: []
 categories: []
@@ -39,15 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-The vast majority of vertebrate hearts can survive only minutes when cut off from oxygen. 
-
-In this study, and in conjunction with my work on cardiovascular responses to anoxia in hagfish, I discovered a number of diverse cardiovascular and biochemical phenotypes that permitted the survival of hagfish for >36h of complete oxygen deprivation. 
-
-I discovered that hagfish were able to maintain routine metabolic rate for up to 6 hours of anoxia and that they subsequently utilized metabolic rate suppression to survive anoxic exposure.
-
-By using metabolic rate suppression hagfish met energy requirement using only their glycolytic capacity. 
-
-I further discovered that in order to circulate the necessary glycolytic substrates and remove metabolic waste products from tissues the heart maintained function during anoxia. This was a particular surprise as cardiovascular function has traditionally been viewed as highly reliant on a stable oxygen supply.  
-
-My research in hagfish has lead to collaborations with other investigators that have since used hagfish to investigate physiological mechanisms of hypoxia and anoxia tolerance, and cardiovascular control mechanisms. 
-
+Climate warming is leading to the creation and expansion of areas of reduced dissolved oxygen in the marine environment, termed  "oceanic dead zones". As surviving in oxygen limited environments is a challenge for most marine species, the spectacular anoxia (no oxygen) tolerance of the phylogenetically ancient hagfish is particularly interesting and relevant for predicting species persistence in areas that will likely experience reduced environmental oxygen. In this set of studies I discovered, not only that hagfish could persist in anoxia for >36 hr, but I also uncovered a number of diverse cardiovascular and biochemical phenotypes that permit survival in anoxia. These findings  provide new insight into cardiovascular function, which has been traditionally viewed as a highly aerobic process."
